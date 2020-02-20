@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyApps</string>
+    <string name="button_title_next">Selanjutnya</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="input_your_password">Masukan password Anda</string>
+    <string name="input_your_email">Masukan email Anda</string>
+    <string name="title_button_login">Masuk</string>
+    <string name="label_login_page">Halaman Login</string>
+</resources>
